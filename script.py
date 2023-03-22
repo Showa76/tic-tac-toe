@@ -1,5 +1,5 @@
 from art import tprint
-
+#How to understand all?
 
 def meet():
     tprint('TIC-TAC-TOE', font='fuzzy ')
